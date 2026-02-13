@@ -7,23 +7,6 @@ This project is intentionally lightweight and playful, designed to look like it 
 
 ---
 
-## 🌐 Live Site
-
-Live demo: https://miravvaitha.github.io/Valentines-website/
----
-
-## ✨ Features
-
-- Minion GIF displayed on page load
-- Valentine’s question displayed prominently
-- Two buttons: Yes and No
-- Clicking Yes navigates to a celebration page
-- The No button moves to a random position on hover and cannot be clicked
-- Celebration page with a “YAY!! 💖” message
-- Falling confetti and balloons using simple animations
-
----
-
 ## 🛠 Tech Stack
 
 - HTML5
@@ -85,9 +68,6 @@ Deployment steps:
 
 The site will be available at:
 
-https://miravvaitha.github.io/Valentines-website/
-
----
 
 ## ⚠️ Disclaimer
 
@@ -99,3 +79,4 @@ No actual coercion involved (just a very persistent button).
 ## 📄 License
 
 MIT License
+
